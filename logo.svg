@@ -1,0 +1,13 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#4A90E2" stroke="#003A70" stroke-width="5" />
+  
+  <!-- Palindrome Symbol -->
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#FFFFFF" dy=".3em">🔄</text>
+  
+  <!-- Title -->
+  <text x="50%" y="75%" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#FFFFFF">Palindrome</text>
+  
+  <!-- Subtitle -->
+  <text x="50%" y="85%" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" fill="#FFFFFF">Checker</text>
+</svg>
